@@ -1,0 +1,2 @@
+# Restaurant-Performance-Consumer-Patterns-Analysis
+Restaurant Performance &amp; Consumer Patterns Analysis using SQL. This project explores restaurant revenue, customer behavior, menu performance, order trends, and operational efficiency using SQL queries, aggregations, joins, subqueries, and window functions. Includes insights that support data-driven decision-making for restaurant optimization.
